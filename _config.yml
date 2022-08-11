@@ -6,8 +6,8 @@ url:  "https://kdramafeuilleton.com/" # Actual base url of the website
 baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Celestine Fünfgeld"
-  email: "alessiofranceschi2@gmail.com"
-  url: "https://alessiofranceschi.me"
+  email: "kdramafeuilleton@gmail.com"
+  
 permalink: pretty
 permalink: /:title
 keywords: [podcast, jekyll]
@@ -28,17 +28,15 @@ sass:
 
 #SEO
 twitter:
-  username: PandaSekh
+  username: @k_feuilleton
   card: summary
 facebook:
   app_id: 
 logo: /assets/img/Podcast_Cover.png
 social:
-  name: Alessio Franceschi
+  name: Celestine Fünfgeld
   links:
-    - https://github.com/PandaSekh
-    - https://twitter.com/PandaSekh
-    - https://www.linkedin.com/in/alessio-franceschi/
+    - https://mobile.twitter.com/k_feuilleton
 lang: en
 
 #Podcast Metadata. Used by the RSS Feed, which currently isn't in use. So you can avoid this
