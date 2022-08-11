@@ -2,32 +2,19 @@ analytics-id:
 #Pages
 pages:
   - {name: 'Episodes', link: 'https://feeds.buzzsprout.com/1815426.rss'}
-  - {name: 'Patreon', link: '#'}
-  - {name: 'Shop', link: '#'}
-  - {name: 'GitHub', link: 'https://github.com/PandaSekh'}
-  - {name: 'Get This Theme', link: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
 
 social:
-  - {icon: 'instagram', type: "brand", link: '#'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ArteLettura'}
-  - {icon: 'facebook', type: "brand", link: '#'}
-  - {icon: 'youtube', type: "brand", link: '#'}  
-  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
-  - {icon: 'rss', type: "solid", link: "#"}
+  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/k_feuilleton'}
+  - {icon: 'facebook', type: "brand", link: 'https://www.facebook.com/kdramafeuilleton/'}  
+  - {icon: 'envelope', type: "solid", link: 'mailto:kdramafeuilleton@gmail.com'}
+  - {icon: 'rss', type: "solid", link: "https://feeds.buzzsprout.com/1815426.rss"}
 
 websites-podcast:
-  - {name: 'Apple Podcast', link: '#'}
-  - {name: 'Spotify', link: '#'}
-  - {name: 'YouTube', link: '#'}
-  - {name: 'Android', link: '#'}
-  - {name: 'Spreaker', link: '#'}
-  - {name: 'Google Podcast', link: '#'}
-  - {name: 'Anchor', link: '#'}
-  - {name: 'Castbox', link: '#'}
-  - {name: 'Overcast', link: '#'}
-  - {name: 'RadioPublic', link: '#'}
-  - {name: 'Breaker', link: '#'}  
-  - {name: 'RSS', link: '#'}
+  - {name: 'Apple Podcast', link: 'https://podcasts.apple.com/us/podcast/k-drama-feuilleton/id1575721396'}
+  - {name: 'Spotify', link: 'https://open.spotify.com/show/18rQ1ySFRQNYdlrq5vercc'}
+  - {name: 'Audible', link: 'https://www.audible.com/pd/Podcast/B08K57XRKR'}
+  - {name: 'stitcher', link: 'https://www.stitcher.com/show/kdrama-feuilleton'}
+  - {name: 'RSS', link: 'https://feeds.buzzsprout.com/1815426.rss'}
 
 translate-date: true #See _includes/date.html to translate the months' name
 shownotes: true
