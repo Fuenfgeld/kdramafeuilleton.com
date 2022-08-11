@@ -1,7 +1,7 @@
 analytics-id: 
 #Pages
 pages:
-  - {name: 'Episodes', link: 'episodes.html'}
+  - {name: 'Episodes', link: 'https://feeds.buzzsprout.com/1815426.rss'}
   - {name: 'Patreon', link: '#'}
   - {name: 'Shop', link: '#'}
   - {name: 'GitHub', link: 'https://github.com/PandaSekh'}
