@@ -16,7 +16,7 @@ websites-podcast:
   - {name: 'stitcher', link: 'https://www.stitcher.com/show/kdrama-feuilleton'}
   - {name: 'RSS', link: 'https://feeds.buzzsprout.com/1815426.rss'}
 
-translate-date: true #See _includes/date.html to translate the months' name
+translate-date: false #See _includes/date.html to translate the months' name
 shownotes: true
 
 #Disqus
