@@ -1,7 +1,7 @@
 analytics-id: 
 #Pages
 pages:
-  - {name: 'Episodes', link: 'https://feeds.buzzsprout.com/1815426.rss'}
+  - {name: 'Episodes', link: 'episodes.html'}
 
 social:
   - {icon: 'twitter', type: "brand", link: 'https://twitter.com/k_feuilleton'}
