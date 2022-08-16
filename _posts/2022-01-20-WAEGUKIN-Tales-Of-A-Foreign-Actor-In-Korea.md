@@ -1,0 +1,9 @@
+---
+title: WAEGUKIN/Tales Of A Foreign Actor In Korea
+layout: post
+categories: [Main]
+type: main # I use this to split main episodes to extra ones
+description: First things first HAPPY NEW YEAR TO ALL! We’re so happy to be back with our very first episode of 2022 and boooy it’s a good one! Have you ever wondered how it would feel like to be an actor* in South Korea? Well we certainly have (!) and in this episode we (and you) get to find out everything about it! We had the absolute pleasure talking to Pillip, who, not only speaks perfect Korean (what a star), but also was already on Korean TV and acted in not one, but two theatre plays during his time in Korea. This being THE K-drama Feuilleton Podcast, of course you can expect much critical discussion on the topic of how waegukin/foreigners are portrayed in Korean productions and what this tells us about identity and stereotypes, even Slavoj Žižek gets a mention (cause why not?!).In any case we hope you enjoy this episode, do get in touch with any comments, questions or critique (always)! You know where to find us (twitter, facebook, email)...Lots of K-Drama love and solidarity to you all!----Link to a trailer of Pillips theatre play https//youtu.be/BVaJhQwc9YwLinks to two badass articles that Maksu is talking about (on Multi-Culturalism in TV Productions and the re-Articulation of the Korean self)https//www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002114281https//www.ingentaconnect.com/content/intellect/eapc/2020/00000006/00000002/art00008;jsessionid=90bo5sq49norf.x-ic-live-02Link to the youtube channel that Pillip hypes https//m.youtube.com/channel/UCL_8O4S2CTAOTo7a_KAbJAg
+file: https://www.buzzsprout.com/1815426/9920100-waegukin-tales-of-a-foreign-actor-in-korea.mp3 #Link to your .mp3 file
+length: "50:41" # mm:ss
+---
